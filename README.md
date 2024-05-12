@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, This is Shimaa Sami
 
-<!--
-**Shimaasami400/Shimaasami400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mobile Application Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+- LinkedIn: [<i class="fab fa-linkedin"></i> Shimaa Sami](https://www.linkedin.com/in/shimaa-samy400/)
+
+
+### Skills
+- <i class="fab fa-swift"></i> Swift
+- <i class="fab fa-objective-c"></i> Objective-C
+- <i class="fab fa-java"></i> Java
+- <i class="fab fa-kotlin"></i> Kotlin
+- <i class="fab fa-android"></i> Android
+- <i class="fas fa-fire"></i> Firebase
+- <i class="fab fa-git"></i> Git
+- <i class="fab fa-postman"></i> Postman
+
+
