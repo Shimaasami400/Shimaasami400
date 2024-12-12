@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, This is Shimaa Sami</h1>
-<h3 align="center">A Mobile Application Developer</h3>
+<h3 align="center">An iOS Mobile Application Developer</h3>
 
-🔭I'm currently a trainee at ITI.
+🔭I'm an ITI graduate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
